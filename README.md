@@ -37,5 +37,5 @@ This Tableau dashboard analyzes sales and profit performance across different pr
 
 ## Dashboard Preview
 
-(Dashboard screenshot will be added here after upload.)
+<img src="Sales%20&%20Profit%20Dashboard.png" width="800">
 
